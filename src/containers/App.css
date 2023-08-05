@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(146, 145, 145));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sticky{
+    size: 100%;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    border: solid #000;
+    border-style: solid;
+    border-width: 100 0px;
+    z-index: 2;
+    background-image: linear-gradient(to right,rgb(0, 75, 107),rgb(0, 9, 102));
+    width: 100%;
+}
+
+.body{
+    padding-top: 250px;
+    z-index: 1;
+}
