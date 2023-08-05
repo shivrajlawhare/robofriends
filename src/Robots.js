@@ -6,42 +6,6 @@ export const Robots = [
         email: 'shivrajlawhare@gmail.com'
     },
     {
-        id: 43,
-        name: 'Shivraj Lawhare',
-        username: 'shiv',
-        email: 'shivrajlawhare@gmail.com'
-    },
-    {
-        id: 43,
-        name: 'Shivraj Lawhare',
-        username: 'shiv',
-        email: 'shivrajlawhare@gmail.com'
-    },
-    {
-        id: 43,
-        name: 'Shivraj Lawhare',
-        username: 'shiv',
-        email: 'shivrajlawhare@gmail.com'
-    },
-    {
-        id: 43,
-        name: 'Shivraj Lawhare',
-        username: 'shiv',
-        email: 'shivrajlawhare@gmail.com'
-    },
-    {
-        id: 43,
-        name: 'Shivraj Lawhare',
-        username: 'shiv',
-        email: 'shivrajlawhare@gmail.com'
-    },
-    {
-        id: 43,
-        name: 'Shivraj Lawhare',
-        username: 'shiv',
-        email: 'shivrajlawhare@gmail.com'
-    },
-    {
         id: 53,
         name: 'Manoj Masule',
         username: 'manyaa',
